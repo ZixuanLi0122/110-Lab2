@@ -7,5 +7,3 @@ export function print_invitation_list()
         console.log(invitation_list[i]);
     }
 }
-
-print_invitation_list();
