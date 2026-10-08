@@ -1,4 +1,4 @@
-const invitation_list = ["Alice", "Bob", "Carl", "Frank", "Bobby", "Paul", "David"];
+export const invitation_list = ["Alice", "Bob", "Carl", "Frank", "Bobby", "Paul", "David"];
 
 export function print_invitation_list()
 {
