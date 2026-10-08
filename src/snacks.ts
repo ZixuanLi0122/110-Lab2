@@ -7,4 +7,3 @@ export function printSnacks() {
     }
 }
 
-printSnacks();
