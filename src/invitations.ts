@@ -1,6 +1,6 @@
 const invitation_list = ["Alice", "Bob", "Carl", "Frank"];
 
-function print_invitation_list()
+export function print_invitation_list()
 {
     for (let i = 0; i < invitation_list.length; i++)
     {
