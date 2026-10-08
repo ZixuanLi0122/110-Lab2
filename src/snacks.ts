@@ -1,5 +1,5 @@
 
-const snacks = ["Chips", "Cookies", "Pizza"];
+const snacks = ["Chips", "Cookies", "Pizza", "Candy", "Popcorn", "Ice Cream"];
 
 export function printSnacks() {
     for (const snack of snacks) {
